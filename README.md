@@ -1,4 +1,4 @@
-# Transformer-from-Scratch-on-Pytorch
+# Transformer from Scratch in Pytorch
 Transformer ([Attention Is All You Need](https://arxiv.org/abs/1706.03762)) implementation from scratch on PyTorch and Training codes.
 
 The dataset used for training is [_traintogpb/aihub-koen-translation-integrated-base-1m_](https://huggingface.co/datasets/traintogpb/aihub-koen-translation-integrated-base-1m).
